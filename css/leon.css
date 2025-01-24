@@ -162,7 +162,7 @@ padding-left: 25px;
 
 /* Start Landing Section */
 .landing {
-  background-image: url('/images/ama-dablam2-most-beautiful-mountains-in-the-world.webp');
+  background-image: url('../images/background.jpg');
   background-size: cover; /* Ensures the image covers the entire container */
   height: calc(100vh - 64px); /* Height of the section minus the header (64px) */
 }
